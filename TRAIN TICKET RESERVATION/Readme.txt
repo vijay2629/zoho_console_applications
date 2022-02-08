@@ -1,10 +1,10 @@
 ADMIN LOGIN
-Admin name : admin1
-Admin pass : 1
+Admin name :Admin1
+Admin pass : admin1
 
 
 USER LOGIN
-User name : passenger1
+User name : vijay
 User pass : 1
 
 
