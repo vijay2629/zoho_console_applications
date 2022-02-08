@@ -1,11 +1,11 @@
 Admin login
-Admin name:Abarna
-Admin password :262903
+Admin name:vijay
+Admin password :90251
 
 
 USER LOGIN
-User name : abarna
-User password:123
+User name : vijay
+User password:0000
 
 
 Admin module :
