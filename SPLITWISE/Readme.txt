@@ -1,11 +1,6 @@
-ADMIN LOGIN
-Admin name : admin1
-Admin pass : 1
-
-
 USER LOGIN
 User email : user1@gmail.com
-User pass : 1
+User pass : 1234
 
 USER MODULE
   1.New user -- Create Account
