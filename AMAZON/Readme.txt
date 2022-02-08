@@ -1,6 +1,6 @@
  Admin login
-Admin name:Abarna
-Admin password :262903
+Admin name:Admin1
+Admin password :admin1
 
 
 USER LOGIN
