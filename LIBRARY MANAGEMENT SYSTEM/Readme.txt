@@ -1,6 +1,6 @@
 ADMIN LOGIN:
-Admin mail : admin1@gmail.com
-Admin pass : 1
+Admin mail : vijay@gmail.com
+Admin pass : 1234
 
 
 USER LOGIN:
